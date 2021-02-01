@@ -1,0 +1,6 @@
+package com.khaledmurad.mate
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
